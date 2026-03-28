@@ -27,9 +27,3 @@ trojan://YYYwing999@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=
 trojan://_SuGer-Y@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=s.888888o.top#rf-_SuGer-Y
 trojan://JaneJaneDa@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=s.888888o.top#rf-JaneJaneDa
 trojan://liujiapeng34@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=s.888888o.top#rf-liujiapeng34
-trojan://Ow114514@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=s.888888o.top#rf-ctn32
-trojan://Gascy@s.888888o.top:443?security=tls&headerType=none&type=tcp&sni=s.888888o.top#rf-Gascy
-trojan://HZyUrhwkZC@3x-ui.262832.xyz:39961?security=tls&alpn=h2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#k0im8l5m
-socks://Y3RuMzI6T3cxMTQ1MTQ%3D@3x-ui.262832.xyz:41012#ctn
-vmess://eyJhZGQiOiIzeC11aS4yNjI4MzIueHl6IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiYzE2YzhmMGYtYzUxMS00ODliLTgxNjAtZDI1Y2Y4OTBlY2FmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTc4OCIsInBzIjoiY3RuLWVlbHM1cnluIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WWdwTE5uZG1tZktheWhqbEJSOHdqQmlzNmlaS042VHFyL0JCNU5ZRGdrZz06S0ZuVWdqNGc2R1kxd0U0QTJHdnZobmJJZVpoWmJxcEN3NzNWZjNySDh1RT0%3D@3x-ui.262832.xyz:41536#wzzkbzev
